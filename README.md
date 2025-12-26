@@ -35,7 +35,7 @@ Este é um projeto feito para o curso de Especialização em Data Science, do Al
 <h1 align="left">📊Analise:</h1> 
 <div>
   <p align="center">
-    <img  height="300" alt="Contract x Churn" src="https://github.com/deanesaraiva/Challenge_TelecomX/blob/main/grafico_prop_clientes.png" />
+    <img  height="300" alt="Contract x Churn" src="https://github.com/deanesaraiva/TelecomX/blob/main/grafico_prop_clientes.png" />
 </p>
 
 <li>Dos 7266 contratos ativos, 1869 cancelaram. Desse nicho percebeu-se que:</li>
@@ -48,8 +48,8 @@ Este é um projeto feito para o curso de Especialização em Data Science, do Al
 </ol>
 
 <br>
-<img  height="300" alt="Contract x Churn" src="https://github.com/deanesaraiva/Challenge_TelecomX/blob/main/grafico_tenure.png" />
-<img  height="300" alt="Métodos de pagamento" src="https://github.com/deanesaraiva/Challenge_TelecomX/blob/main/grafico_perfil_clientes.png" />
+<img  height="300" alt="Contract x Churn" src="https://github.com/deanesaraiva/TelecomX/blob/main/grafico_tenure.png" />
+<img  height="300" alt="Métodos de pagamento" src="https://github.com/deanesaraiva/TelecomX/blob/main/grafico_perfil_clientes.png" />
 </br>
 </div>
 
