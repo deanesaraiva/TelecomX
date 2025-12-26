@@ -1,11 +1,10 @@
-<br></br>
+<br>
 <h1 tabindex="-1">Challenge TelecomX</h1>
 <p>O objetivo deste projeto é fazer uma análise dos fatores que levaram a empresa a enfrentar um alto índice de cancelamentos(Churn), identificando categorias com maiores índices de Churn e padrões que possam /n
 contribuir para prever ou reduzir a saída dos futuros clientes. Ao analisar os dados, serviços e comportamentos, busco gerar insights acionáveis para ações de retenção./n
 Este é um projeto feito para o curso de Especialização em Data Science, do Alura Latam em parceria com o Programa ONE (Oracle Next Education). 
 
-<br></br>
-
+<br>
 <h1 align="left" tabindex="-1">Tecnologias utilizadas:</h1>
 <ul>
 <li>Python: A linguagem de programação central para o desenvolvimento do projeto.</li>
@@ -13,9 +12,7 @@ Este é um projeto feito para o curso de Especialização em Data Science, do Al
 <li>Matplotlib: Biblioteca com representações visuais dos dados, facilitando a identificação de padrões e insights. </li>
 <li>Google COLAB: Plataforma onde o usuário pode fazer o download, reeditar e salvar o Notebook criado com o código completo, texto explicativo e visualizações que embasaram o relatório final.</li>
 </ul>
-
-<br></br>
-
+<br>
 <h1 align="left" tabindex="-1">Tratamento de Dados:</h1>
 <div>
   <ul>
@@ -31,11 +28,11 @@ Este é um projeto feito para o curso de Especialização em Data Science, do Al
 </div>
 
 <br>
-
 <h1 align="left">📊Analise:</h1> 
 <div>
-  <p align="center">
+  <p>
     <img  height="300" alt="Contract x Churn" src="https://github.com/deanesaraiva/TelecomX/blob/main/grafico_prop_clientes.png" />
+    <img  height="300" alt="Contract x Churn" src="https://github.com/deanesaraiva/TelecomX/blob/main/grafico_perfil.png" />
 </p>
 
 <li>Dos 7266 contratos ativos, 1869 cancelaram. Desse nicho percebeu-se que:</li>
@@ -53,8 +50,7 @@ Este é um projeto feito para o curso de Especialização em Data Science, do Al
 </br>
 </div>
 
-<br></br>
-
+<br>
 <h1 align="left">💡Recomendacao final:</h1>
 <div>
 <li>Como clientes com pouco tempo de contrato apresentam maior índice de churn, isso indica uma possível falha na fase inicial do relacionamento.</li>
@@ -67,8 +63,12 @@ Este é um projeto feito para o curso de Especialização em Data Science, do Al
  </ol>
 </div>
 
-<br></br>
+<br>
+<h2 align="left">👉Instruções para acessar o Relatório</h2>
+<div>
+Abra o repositório no GitHub → Clique no arquivo Analise-do-Comportamento-do-Churn.pdf → Faça o download ou abra no seu navegador.
 
+<br>
 <h2 align="left">👉Instruções para executar o notebook</h2>
 <div>
 Abra o repositório no GitHub → Clique no arquivo Projeto_Aprimorado.ipynb → Copie a URL da página → 
